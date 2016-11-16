@@ -1,0 +1,105 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,Accept1_png,GiveUp_png,GiveUp1_png,Cancel1_png,Cancel_png,Submit_png,Submit1_png,Accept_png,Question2_png,Question0_png,Question1_png,Exclaimation1_png,Background_png,NPC_jpg,TaskPanel_png,Dialog_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "Accept1_png",
+			"type": "image",
+			"url": "assets/Accept1.png"
+		},
+		{
+			"name": "GiveUp_png",
+			"type": "image",
+			"url": "assets/GiveUp.png"
+		},
+		{
+			"name": "GiveUp1_png",
+			"type": "image",
+			"url": "assets/GiveUp1.png"
+		},
+		{
+			"name": "Cancel1_png",
+			"type": "image",
+			"url": "assets/Cancel1.png"
+		},
+		{
+			"name": "Cancel_png",
+			"type": "image",
+			"url": "assets/Cancel.png"
+		},
+		{
+			"name": "Submit_png",
+			"type": "image",
+			"url": "assets/Submit.png"
+		},
+		{
+			"name": "Submit1_png",
+			"type": "image",
+			"url": "assets/Submit1.png"
+		},
+		{
+			"name": "Accept_png",
+			"type": "image",
+			"url": "assets/Accept.png"
+		},
+		{
+			"name": "Question2_png",
+			"type": "image",
+			"url": "assets/Question2.png"
+		},
+		{
+			"name": "Question0_png",
+			"type": "image",
+			"url": "assets/Question0.png"
+		},
+		{
+			"name": "Question1_png",
+			"type": "image",
+			"url": "assets/Question1.png"
+		},
+		{
+			"name": "Exclaimation1_png",
+			"type": "image",
+			"url": "assets/Exclaimation1.png"
+		},
+		{
+			"name": "Background_png",
+			"type": "image",
+			"url": "assets/Background.png"
+		},
+		{
+			"name": "NPC_jpg",
+			"type": "image",
+			"url": "assets/NPC.jpg"
+		},
+		{
+			"name": "TaskPanel_png",
+			"type": "image",
+			"url": "assets/TaskPanel.png"
+		},
+		{
+			"name": "Dialog_png",
+			"type": "image",
+			"url": "assets/Dialog.png"
+		}
+	]
+}
