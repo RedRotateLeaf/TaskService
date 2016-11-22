@@ -8,14 +8,9 @@ var game_file_list = [
 	"libs/modules/game/game.native.js",
 	"libs/modules/res/res.js",
 	"libs/modules/tween/tween.js",
-	"bin-debug/DialogPanel.js",
 	"bin-debug/LoadingUI.js",
 	"bin-debug/Main.js",
-	"bin-debug/NPC.js",
-	"bin-debug/Observer.js",
 	"bin-debug/Task.js",
-	"bin-debug/TaskPanel.js",
-	"bin-debug/TaskService.js",
 	//----auto game_file_list end----
 ];
 
@@ -50,7 +45,7 @@ egret_native.egretStart = function () {
 		contentHeight: 1136,
 		showPaintRect: false,
 		showFPS: false,
-		fpsStyles: "x:0,y:0,size:12,textColor:0xffffff,bgAlpha:0.9",
+		fpsStyles: "x:0,y:0,size:30,textColor:0x00c200,bgAlpha:0.9",
 		showLog: false,
 		logFilter: "",
 		maxTouches: 2,
